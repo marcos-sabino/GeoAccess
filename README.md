@@ -94,6 +94,6 @@ Abaixo estão os esboços conceituais do fluxo principal do aplicativo mobile do
 👥 Autor
 Desenvolvido por Marcos Sabino
 
-Estudante de Análise e Desenvolvimento de Sistemas / Engenharia de Software — FATEC.
+Estudante de Bigdate / Engenharia de Software — FATEC.
 
 GitHub: @marcos-sabino
